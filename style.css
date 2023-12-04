@@ -1,0 +1,38 @@
+header{
+	background-color: orange;
+	border-style: solid;
+	margin: -16px;
+	height: 40px;
+	position: fixed;
+	width: 100%;
+
+	
+
+}
+a{
+	color: white;
+	text-decoration: none;
+	padding-right: 20px;
+	font-size: 15px;
+
+
+
+}
+#p{
+	padding-left: 200px;
+
+}
+#you{
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	left: 20px;
+	top: 2px;
+}
+nav{
+	margin-top: 10px;
+}
+p{
+	width: 2000px;
+}
+
